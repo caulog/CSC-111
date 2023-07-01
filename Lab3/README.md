@@ -1,12 +1,12 @@
-## CSC 111 Lab 3: Input & Output Part 2
+# CSC 111 Lab 3: Input & Output Part 2
 Learning objectives:
 1. Use loop structures correctly
 2. Identify the type of loop implementation required to solve a given problem
 
-# Multiplication Quiz
+## Multiplication Quiz
 Objective: Create a Java app, called MultiplicationQuiz.java that helps elementary students learn their multiplication tables by creating a random quiz of multiplication problems.
 
-# Implementing Black Jack
+## Implementing Black Jack
 Objective: Implement a simplified version of Blackjack with the following rules:
 1. The stack of cards is of unlimited supply. That is, there can be as many 1s, 2s, 3s, etc. This is weird but makes the implementation way simpler for us.
 2. The cards in the stack are between 1 and 11 and they are all of the same suite. Again, this simplifies our implementation. We model the card stack by generating random integers between 1 and 11.
