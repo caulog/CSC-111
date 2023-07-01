@@ -1,4 +1,4 @@
-# CSC 111 Final Project
+# CSC 111 Final Project: Wake Forest Theatre
 Learning objectives: Understand object-oriented design from start to finish
 
 ## Requirements
